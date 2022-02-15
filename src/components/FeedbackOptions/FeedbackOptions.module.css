@@ -1,0 +1,20 @@
+.listBtn{
+  padding: 0;
+}
+
+.item {
+  display: inline-block;
+}
+
+.button {
+  font-size: 15px;
+  font-weight: 500;
+  background-color: rgb(247, 206, 206);
+  margin: 10px;
+  padding: 10px 25px;
+  border: none;
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 1px 3px rgba(0, 0, 0, 0.12);
+  border-radius: 0px 0px 4px 4px;
+  cursor: pointer;
+}
